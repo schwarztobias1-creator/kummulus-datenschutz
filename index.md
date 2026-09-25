@@ -1,17 +1,71 @@
-Dieser Text beschreibt, was die App tatsächlich tut. Er ist die Grundlage für die Datenschutzerklärung im Store und muss vor der Veröffentlichung vom Anbieter freigegeben werden.
-Wo deine Daten liegen
-Alle Einträge, der Verlauf und die Einstellungen werden ausschließlich in einer lokalen Datenbank auf diesem Gerät gespeichert (SQLite). Es gibt kein Nutzerkonto, keine Anmeldung und keinen Server dieser App, auf den deine Einträge übertragen werden.
-Keine Werbung, kein Nutzungsprofil
-Die App zeigt keine Werbung, enthält keine Abonnements und keine In-App-Käufe. Es werden keine Werbe-IDs gelesen und keine Profile über dein Verhalten gebildet.
-Technische Messung durch die Entwicklungsplattform
-Die App wurde mit der Runable-Vorlage erstellt. Diese Vorlage enthält eine Komponente zur anonymen Aufrufmessung (OneDollarStats), die Ereignisse an https://r.lilstts.com/events senden kann. Übertragen werden dabei keine Einträge, Notizen oder Verlaufsdaten. Diese Komponente ist Teil der Plattformvorlage und in dieser Version nicht entfernbar – sie muss im Datenschutzformular des Stores angegeben werden.
-Benachrichtigungen
-Erinnerungen sind reine Systembenachrichtigungen, die lokal auf dem Gerät geplant werden. Es gibt keinen Push-Dienst und kein Push-Token. Die Berechtigung wird erst angefragt, wenn du eine Erinnerung einschaltest.
-Sicherung und Weitergabe
-Beim Export schreibt die App eine JSON-Datei in ihren eigenen Ordner und übergibt sie an die Dateifreigabe des Systems. Wohin du diese Datei teilst, entscheidest du selbst – danach gelten die Datenschutzregeln des gewählten Ziels (z. B. Cloud-Speicher oder Messenger).
-Löschen
-Über „Alle Daten löschen“ entfernst du Einträge, Verlauf und geplante Erinnerungen dauerhaft von diesem Gerät. Beim Deinstallieren der App werden die lokalen Daten in der Regel ebenfalls entfernt.
-Offene Frage: Systemsicherungen
-Ob eine automatische Gerätesicherung (Android-Backup, iCloud-Backup) die lokale Datenbank mitsichert, hängt von den Einstellungen des Betriebssystems und der endgültigen Build-Konfiguration ab. Das ist noch nicht auf echten Geräten geprüft. Verlasse dich darauf nicht: exportiere vor einem Gerätewechsel eine eigene Sicherung.
-Verantwortlicher
-Verantwortlich für die Datenverarbeitung ist der Anbieter der App. Name, Adresse und Support-E-Mail stehen unter „Anbieter und Support“.
+Datenschutzerklärung für die App „Wann zuletzt?“
+
+Stand: 25. September 2026
+
+1. Verantwortlicher
+
+KummuluS Aspangerstraße 207, 2823 Pitten, Österreich E-Mail: schwarz.tobias1@gmail.com
+
+Eine eigene Website besteht nicht; der Kontakt läuft über die genannte E-Mail-Adresse.
+
+2. Grundsatz
+
+„Wann zuletzt?“ ist eine Offline-App. Die App hat kein Nutzerkonto, keine Anmeldung und keinen eigenen Server. Alle Einträge, der Verlauf und die Einstellungen werden ausschließlich lokal auf dem Gerät gespeichert. Diese Daten werden vom Anbieter nicht erhoben, nicht eingesehen und nicht übertragen.
+
+3. Welche Daten auf dem Gerät gespeichert werden
+
+Bezeichnungen der angelegten Tätigkeiten, gewählte Symbole und Kategorien
+
+optionale Notizen
+
+Datum erfasster Erledigungen (Kalenderdatum, ohne Uhrzeit)
+
+Intervalle, Erinnerungszeiten, Favoritenmarkierung
+
+App-Einstellungen: Design (hell/dunkel/System), Sprache (System/Deutsch/Englisch), Standarduhrzeit für Erinnerungen
+
+Diese Daten verlassen das Gerät nur, wenn Sie selbst eine Sicherungsdatei exportieren und weitergeben.
+
+4. Berechtigungen
+
+Benachrichtigungen: wird ausschließlich benötigt, um Erinnerungen am Fälligkeitstag anzuzeigen. Die Anfrage erfolgt erst, wenn Sie die erste Erinnerung einschalten. Wird sie abgelehnt, funktioniert die App vollständig weiter – nur ohne Erinnerungen.
+
+Exakte Alarme (Android): dient der zeitgenauen Anzeige einer geplanten Erinnerung.
+
+Weitere Berechtigungen werden nicht angefordert. Die App nutzt keine Kamera, kein Mikrofon, keinen Standort, keine Kontakte, keine Fotos und keine Werbe-ID.
+
+5. Benachrichtigungen
+
+Erinnerungen sind reine lokale Systembenachrichtigungen, die das Betriebssystem auf dem Gerät einplant. Es gibt keinen Push-Dienst und kein Push-Token. Es werden keine Daten an Dritte übermittelt.
+
+Aus technischen Gründen werden maximal 55 Erinnerungen im Voraus beim Betriebssystem eingeplant. Weitere Erinnerungen werden beim nächsten Öffnen der App nachgeplant.
+
+6. Aufrufmessung der Entwicklungsplattform
+
+Die App wurde mit der Vorlage der Entwicklungsplattform Runable erstellt. Diese Vorlage enthält eine Komponente zur anonymen Aufrufmessung (OneDollarStats), die Ereignisdaten an https://r.lilstts.com/events senden kann. Übertragen werden dabei technische Angaben zum App-Aufruf; keine Einträge, Notizen, Verlaufsdaten oder Kontaktdaten.
+
+Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der technischen Funktionsfähigkeit und Fehleranalyse).
+
+7. Sicherung, Export und Import
+
+Beim Export schreibt die App eine JSON-Datei mit den lokalen Daten in ihr eigenes Verzeichnis und übergibt sie an die Dateifreigabe des Betriebssystems. Wohin diese Datei geteilt wird, entscheiden Sie. Ab diesem Zeitpunkt gelten die Datenschutzbestimmungen des gewählten Ziels (z. B. Cloud-Speicher, Messenger, E-Mail).
+
+Beim Import prüft die App Dateiformat und Inhalt. Ungültige Dateien werden abgewiesen, ohne bestehende Daten zu verändern. Ein gültiger Import ersetzt nach ausdrücklicher Bestätigung alle Daten auf dem Gerät.
+
+8. Löschung
+
+Über Einstellungen → Alle Daten löschen werden Einträge, Verlauf und geplante Erinnerungen dauerhaft vom Gerät entfernt. Beim Deinstallieren der App werden die lokalen Daten in der Regel ebenfalls entfernt.
+
+Ob eine automatische Gerätesicherung (Android-Backup, iCloud-Backup) die lokale Datenbank mitsichert, hängt von den Einstellungen des Betriebssystems ab. Für einen Gerätewechsel sollten Sie deshalb eine eigene Sicherung exportieren.
+
+9. Keine Werbung, keine Käufe in der App
+
+Die App zeigt keine Werbung, enthält keine Abonnements und keine In-App-Käufe. Es findet keine Profilbildung und kein Tracking über Apps oder Websites hinweg statt. Die Bezahlung erfolgt einmalig über den jeweiligen App-Store; die Zahlungsdaten verarbeitet allein der Store-Betreiber (Google bzw. Apple), die App erhält davon keine Daten.
+
+10. Rechte der Betroffenen
+
+Da der Anbieter keine personenbezogenen Daten der Nutzer erhebt oder speichert, kann er zu diesen Daten weder Auskunft geben noch sie löschen – sie liegen ausschließlich auf Ihrem Gerät und werden dort von Ihnen selbst verwaltet. Für die Aufrufmessung nach Abschnitt 6 können Auskunft, Widerspruch und Löschung über die oben genannte Kontaktadresse geltend gemacht werden.
+
+11. Änderungen
+
+Diese Erklärung wird angepasst, wenn sich die Funktionen der App ändern. Die jeweils aktuelle Fassung ist im Store-Eintrag und in der App unter Einstellungen → Datenschutz abrufbar.
