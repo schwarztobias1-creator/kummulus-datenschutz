@@ -99,3 +99,35 @@ dennoch jederzeit an die oben genannte Kontaktadresse richten.
 
 Diese Erklärung wird angepasst, wenn sich die Funktionen der App ändern. Die jeweils aktuelle
 Fassung ist im Store-Eintrag und in der App unter *Einstellungen → Datenschutz* abrufbar.
+
+---
+
+# Impressum
+
+Angaben gemäß § 5 E-Commerce-Gesetz (ECG) und § 25 Mediengesetz.
+
+**Verantwortlich für Inhalt und Angebot der App „Wann zuletzt?“**
+
+Tobias Schwarz  
+Aspangerstraße 207  
+2823 Pitten  
+Österreich
+
+E-Mail: [schwarz.tobias1@gmail.com](mailto:schwarz.tobias1@gmail.com)
+
+Unternehmensgegenstand: Entwicklung und Bereitstellung der Mobilanwendung „Wann zuletzt?“.
+
+Es besteht keine Umsatzsteuer-Identifikationsnummer und keine Eintragung im Firmenbuch.
+Eine Mitgliedschaft in der Wirtschaftskammer sowie eine Aufsichtsbehörde bestehen nicht.
+Es gilt keine besondere berufsrechtliche Vorschrift.
+
+**Online-Streitbeilegung für Verbraucher:** Verbraucher haben die Möglichkeit, Beschwerden
+der Online-Streitbeilegungsplattform der Europäischen Union zu übermitteln. Die Abwicklung
+des Kaufs erfolgt jedoch ausschließlich über den jeweiligen App-Store (Google Play bzw.
+Apple App Store); Beschwerden zum Kauf sind daher zunächst an den Store-Betreiber zu richten.
+
+**Haftung für Inhalte:** Die Inhalte dieser Seite und der App werden mit Sorgfalt erstellt.
+Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann keine Gewähr übernommen
+werden. Die App ersetzt keine medizinische, rechtliche oder sonstige fachliche Beratung.
+
+Stand: 25. September 2026
